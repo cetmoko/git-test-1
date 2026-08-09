@@ -1,8 +1,8 @@
 # WHAT IS GOODY GANG
 
 
-| fart|ass |
+| hallo|everynyan|
 |:--: | :--: |
-|hello|hello|
+|how are|you|
 
 
