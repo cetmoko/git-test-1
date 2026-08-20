@@ -6,4 +6,5 @@ int main() {
   string s;
   cin >> s;
   cout << s << " pooped\n";
+  cout << "big chungs\n";
 }
